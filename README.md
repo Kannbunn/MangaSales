@@ -1,1 +1,1 @@
-# Manga-Sales-Ranking
+# Manga Sales Ranking
